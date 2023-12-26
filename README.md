@@ -1,6 +1,8 @@
 # Pico Wheel
- 
+
 DIY sim racing wheel using a Raspberry Pi Pico and an AS5600 magnetic encoder
+
+![pico-wheel](https://github.com/khui0/pico-wheel/assets/101839505/29395627-e298-49d1-adba-7828c009001b)
 
 ## Parts list
 
